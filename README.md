@@ -17,6 +17,22 @@
 
 ---
 
+### 📫 Связь и соцсети
+
+<p align="center">
+  <a href="https://github.com/Erikskiy">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/erikskiy">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://vk.com/erikskiy">
+    <img src="https://img.shields.io/badge/VK-4680C2?style=for-the-badge&logo=vk&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ### 🛠 Мой стек
 
 *Языки программирования:*  
@@ -46,6 +62,10 @@
 
 ---
 
+### 💬 Цитата
+
+“Неидеальное действие лучше идеального бездействия.”
+
 ### 📊 GitHub Статистика
 
 <p align="center">
@@ -58,22 +78,3 @@
 
 ---
 
-### 📫 Связь и соцсети
-
-<p align="center">
-  <a href="https://github.com/Erikskiy">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/erikskiy">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://vk.com/erikskiy">
-    <img src="https://img.shields.io/badge/VK-4680C2?style=for-the-badge&logo=vk&logoColor=white" />
-  </a>
-</p>
-
----
-
-### 💬 Цитата
-
-“Неидеальное действие лучше идеального бездействия.”

@@ -23,6 +23,7 @@
     <img src="https://img.shields.io/badge/VK-4680C2?style=for-the-badge&logo=vk&logoColor=white" />
   </a>
 </p>
+
 ---
 
 ### 🛠 Мой стек

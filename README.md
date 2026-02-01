@@ -22,9 +22,6 @@
   <a href="https://vk.com/erikskiy">
     <img src="https://img.shields.io/badge/VK-4680C2?style=for-the-badge&logo=vk&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/Erikskiy/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
 </p>
 ---
 

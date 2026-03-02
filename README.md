@@ -4,7 +4,7 @@
 
 ### 👋 О себе 
 🧑‍🎓 Студент 3 курса по специальности ВТиПО (ВТКО)  
-💻 Разрабатываю кросс-платформенные приложения и игры
+💻 Разрабатываю кросс-платформенные приложения и игры                               
 ⚡ Быстро учусь, люблю экспериментировать и осваивать новые технологии  
 
 ---
@@ -53,8 +53,8 @@
 #### 🖥 Среда разработки
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 ---
 
